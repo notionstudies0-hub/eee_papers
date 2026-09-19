@@ -1,0 +1,6 @@
+{
+  "name": "AAM Digital Twin Airspace Manager",
+  "description": "Integrated Airspace Management and Advanced Air Mobility digital twin prototype combining NASA/FAA digital flight rules and multi-model orchestration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
